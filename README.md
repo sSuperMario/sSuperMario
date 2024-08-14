@@ -29,8 +29,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/sSuperMario/sSuperMario/output/snake.svg" alt="Snake animation" />
 
 ###
